@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">ByteCore Digital Lab Logo</title>
+  <desc id="logoDesc">Stylized BC monogram with wordmark</desc>
+  <defs>
+    <linearGradient id="bcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b7e2ff"/>
+      <stop offset="100%" stop-color="#3aa7d8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="48" height="48" rx="12" fill="#071a2b"/>
+  <path d="M12 12h15c5 0 8 2.7 8 6.7c0 2.6-1.3 4.5-3.8 5.5c3 1 4.8 3.2 4.8 6.3c0 4.3-3.4 7.5-9 7.5H12V12zm8 5.5v5.2h6.2c1.8 0 2.8-1 2.8-2.6c0-1.7-1-2.6-2.8-2.6H20zm0 10.5v5.5h7.4c1.9 0 3-1 3-2.7c0-1.9-1.1-2.8-3.2-2.8H20z" fill="url(#bcGrad)"/>
+  <text x="60" y="29" fill="#d6ecff" font-family="'Segoe UI',sans-serif" font-size="19" font-weight="700" letter-spacing="0.8">BYTECORE DIGITAL LAB</text>
+</svg>

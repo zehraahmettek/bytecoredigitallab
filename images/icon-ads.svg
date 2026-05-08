@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ad Monetization">
+  <rect x="6" y="10" width="52" height="44" rx="8" fill="#10283b" stroke="#87cfff" stroke-width="2"/>
+  <path d="M14 22h36M14 30h24M14 38h30" stroke="#9bdcff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M45 33l8 5l-8 5v-10z" fill="#9bdcff"/>
+</svg>
